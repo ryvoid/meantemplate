@@ -1,0 +1,19 @@
+{
+  "name": "meantemplate",
+  "version": "0.0.1",
+  "description": "walking skeleton",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryvoid/meantemplate.git"
+  },
+  "author": "ryvoid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryvoid/meantemplate/issues"
+  },
+  "homepage": "https://github.com/ryvoid/meantemplate#readme"
+}
