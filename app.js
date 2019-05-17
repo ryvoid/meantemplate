@@ -1,3 +1,5 @@
+//TODO: setup GULP or NPM scripts
+
 let express = require('express');
 let chalk = require('chalk');
 let debug = require('debug')('app');
